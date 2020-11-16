@@ -33,7 +33,7 @@ mcr-predictor$ tree
 ```
 tar -zxvf dataset.tar.gz
 ```
-Then, run any of the scripts listed above
+- Then, run any of the scripts listed above
 ```
 python3 -u <script name>
 ```
